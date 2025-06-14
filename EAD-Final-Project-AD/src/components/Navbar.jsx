@@ -3,8 +3,8 @@ import React from "react";
 const Navbar = () => {
   return (
     <header>
-      <p>GYM</p>
-      <p>AD FITNESS</p>
+      <p> AD GYM</p>
+      <p>FITNESS</p>
     </header>
   );
 };
