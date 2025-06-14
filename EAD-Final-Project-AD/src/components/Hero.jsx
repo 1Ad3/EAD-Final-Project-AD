@@ -6,8 +6,8 @@ const Hero = () => {
       <div className="content">
         <div className="title">
           <h1>LET'S</h1>
-          <h1>GET</h1>
-          <h1>MOVING</h1>
+          <h1>GROOM</h1>
+          <h1>EVERY DAY</h1>
         </div>
         <div className="sub-title">
           <p>Your Journey to Fitness Starts Here</p>
