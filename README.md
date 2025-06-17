@@ -49,5 +49,5 @@
 
 <h2>📧 Contact</h2>
 <p>
-  Developed by <strong>Allah Dad</strong> – <a href="mailto:chacharallahdad2@gmail.com">chacharallahdad2@gmail.com</a>
+  Developed by <strong>Allah Dad</strong> – <a href="mailto:allahdad.bscsf22@iba-suk.edu.pk">allahdad.bscsf22@iba-suk.edu.pk</a>
 </p>
